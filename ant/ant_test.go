@@ -6,7 +6,7 @@ import (
 	"testing"
 
 	"github.com/NebulousLabs/Sia/node/api/client"
-	"github.com/NebulousLabs/Sia/types"
+	"gitlab.com/NebulousLabs/Sia/types"
 )
 
 func TestNewAnt(t *testing.T) {

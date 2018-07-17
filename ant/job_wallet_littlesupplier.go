@@ -4,7 +4,7 @@ import (
 	"log"
 	"time"
 
-	"github.com/NebulousLabs/Sia/types"
+	"gitlab.com/NebulousLabs/Sia/types"
 )
 
 var (

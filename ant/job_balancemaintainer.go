@@ -4,7 +4,7 @@ import (
 	"log"
 	"time"
 
-	"github.com/NebulousLabs/Sia/types"
+	"gitlab.com/NebulousLabs/Sia/types"
 )
 
 // balanceMaintainer mines when the balance is below desiredBalance. The miner

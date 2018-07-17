@@ -6,7 +6,7 @@ import (
 	"net"
 	"os/exec"
 
-	"github.com/NebulousLabs/Sia/types"
+	"gitlab.com/NebulousLabs/Sia/types"
 	"github.com/NebulousLabs/go-upnp"
 )
 
