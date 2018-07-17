@@ -9,7 +9,7 @@ import (
 	"os"
 	"time"
 
-	"github.com/NebulousLabs/Sia-Ant-Farm/ant"
+	"github.com/elfingit/Sia-Ant-Farm/ant"
 )
 
 type (
