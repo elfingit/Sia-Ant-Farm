@@ -7,7 +7,7 @@ import (
 	"net"
 	"os"
 
-	"github.com/elfingit/Sia-Ant-Farm/ant"
+	"ant"
 	"gitlab.com/NebulousLabs/Sia/modules"
 	"gitlab.com/NebulousLabs/Sia/node/api/client"
 	"gitlab.com/NebulousLabs/Sia/types"
