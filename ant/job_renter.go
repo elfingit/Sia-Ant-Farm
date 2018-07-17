@@ -13,9 +13,9 @@ import (
 	"github.com/NebulousLabs/merkletree"
 
 	"github.com/NebulousLabs/Sia/crypto"
-	"github.com/NebulousLabs/Sia/modules"
-	"github.com/NebulousLabs/Sia/node/api"
-	"github.com/NebulousLabs/Sia/node/api/client"
+	"gitlab.com/NebulousLabs/Sia/modules"
+	"gitlab.com/NebulousLabs/Sia/node/api"
+	"gitlab.com/NebulousLabs/Sia/node/api/client"
 	"gitlab.com/NebulousLabs/Sia/types"
 	"github.com/NebulousLabs/fastrand"
 )
